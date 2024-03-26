@@ -1,0 +1,22 @@
+h2ofhirig : Validation Results
+=========================================
+
+err = 0, warn = 5, info = 2
+IG Publisher Version: 1.6.2
+Generated Wed Mar 20 15:32:48 CET 2024. FHIR version 4.0.1 for ig.health-outcomes-observatory.eu#0.1.0 (canonical = https://github.com/IMI-H2O/h2o-fhir-ig)
+ Build Errors : 0 / 4 / 0
+ C:\Georg\Projekte\H2O\H2O_FHIR_Implementation_Guide\h2o-fhir-ig\fsh-generated\resources\ImplementationGuide-ig.health-outcomes-observatory.eu : 0 / 1 / 2
+ C:\Georg\Projekte\H2O\H2O_FHIR_Implementation_Guide\h2o-fhir-ig\fsh-generated\resources\Patient-PatientExample : 0 / 0 / 1
+ C:\Georg\Projekte\H2O\H2O_FHIR_Implementation_Guide\h2o-fhir-ig\fsh-generated\resources\StructureDefinition-MyPatient : 0 / 0 / 2
+</table>
+== n/a ==
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-ig.health-outcomes-observatory.eu.json ==
+WARNING: ImplementationGuide/ig.health-outcomes-observatory.eu: ImplementationGuide: Regel ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation' fehlgeschlagen
+INFORMATION: Resource: This resource could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
+== fsh-generated\resources\Patient-PatientExample.json ==
+== fsh-generated\resources\StructureDefinition-MyPatient.json ==
+INFORMATION: Resource: This resource could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)

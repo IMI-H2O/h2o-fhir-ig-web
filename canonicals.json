@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "ig.health-outcomes-observatory.eu",
+    "type" : "ImplementationGuide",
+    "url" : "https://github.com/IMI-H2O/h2o-fhir-ig/ImplementationGuide/ig.health-outcomes-observatory.eu",
+    "version" : "0.1.0",
+    "name" : "h2ofhirig"
+  },
+  {
+    "id" : "MyPatient",
+    "type" : "StructureDefinition",
+    "url" : "https://github.com/IMI-H2O/h2o-fhir-ig/StructureDefinition/MyPatient",
+    "version" : "0.1.0",
+    "name" : "MyPatient"
+  }
+]

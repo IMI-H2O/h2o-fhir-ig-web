@@ -1,0 +1,4 @@
+Source File	Size	loadResources	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+\fsh-generated\resources\ImplementationGuide-ig.health-outcomes-observatory.eu.json	1580	-	0	0	0	0	0	0	4	37	0	0	0	0	0	0	0	1	0	0	82	136	0	0	1	1	0	1
+fsh-generated/resources/Patient-PatientExample.json	269	7	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	21	53	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-MyPatient.json	1492	8	0	0	0	0	0	49	0	41	0	0	1	0	0	0	0	1	0	0	219	2029	0	1	0	7	0	1
