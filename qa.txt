@@ -3,7 +3,7 @@ h2ofhirig : Validation Results
 
 err = 0, warn = 5, info = 0
 IG Publisher Version: 1.6.3
-Generated Tue Mar 26 10:03:55 UTC 2024. FHIR version 4.0.1 for ig.health-outcomes-observatory.eu#0.1.0 (canonical = https://github.com/IMI-H2O/h2o-fhir-ig)
+Generated Tue Mar 26 10:10:31 UTC 2024. FHIR version 4.0.1 for ig.health-outcomes-observatory.eu#0.1.0 (canonical = https://github.com/IMI-H2O/h2o-fhir-ig)
  Build Errors : 0 / 4 / 0
  /home/runner/work/h2o-fhir-ig/h2o-fhir-ig/fsh-generated/resources/ImplementationGuide-ig.health-outcomes-observatory.eu : 0 / 1 / 1
  /home/runner/work/h2o-fhir-ig/h2o-fhir-ig/fsh-generated/resources/Patient-PatientExample : 0 / 0 / 1
